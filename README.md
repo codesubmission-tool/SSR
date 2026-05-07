@@ -18,7 +18,7 @@ The dataset contains image-instruction-response examples formatted in a ShareGPT
 We also provide the LoRA checkpoint trained with SRR for reproducing our post-training experiments:
 
 **LoRA Checkpoint:**  
-https://huggingface.co/Anonymous-SRR/SRR-LoRA
+[https://huggingface.co/Anonymous-SRR/SRR-LoRA](https://github.com/codesubmission-tool/SSR/releases/tag/V1)
 
 The checkpoint is intended for research use and should be used together with the Qwen2-VL described in the paper.
 
