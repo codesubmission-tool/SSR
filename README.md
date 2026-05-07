@@ -22,6 +22,3 @@ We also provide the LoRA checkpoint trained with SRR for reproducing our post-tr
 
 The checkpoint is intended for research use and should be used together with the Qwen2-VL described in the paper.
 
-
-  ]
-}
